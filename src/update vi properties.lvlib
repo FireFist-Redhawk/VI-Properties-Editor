@@ -13,24 +13,24 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="apply control changes.vi" Type="VI" URL="../support/apply control changes.vi"/>
-		<Item Name="change all descriptions.vi" Type="VI" URL="../support/change all descriptions.vi"/>
-		<Item Name="GetCtrlData.vi" Type="VI" URL="../support/GetCtrlData.vi"/>
-		<Item Name="GetVIData.vi" Type="VI" URL="../support/GetVIData.vi"/>
-		<Item Name="PrepandSignItemsNames.vi" Type="VI" URL="../support/PrepandSignItemsNames.vi"/>
-		<Item Name="SaveVI.vi" Type="VI" URL="../support/SaveVI.vi"/>
-		<Item Name="SetChanged.vi" Type="VI" URL="../support/SetChanged.vi"/>
-		<Item Name="SetControlsIndicators.vi" Type="VI" URL="../support/SetControlsIndicators.vi"/>
-		<Item Name="SetVIDescription&amp;Help.vi" Type="VI" URL="../support/SetVIDescription&amp;Help.vi"/>
+		<Item Name="apply control changes.vi" Type="VI" URL="../_support/apply control changes.vi"/>
+		<Item Name="change all descriptions.vi" Type="VI" URL="../_support/change all descriptions.vi"/>
+		<Item Name="GetCtrlData.vi" Type="VI" URL="../_support/GetCtrlData.vi"/>
+		<Item Name="GetVIData.vi" Type="VI" URL="../_support/GetVIData.vi"/>
+		<Item Name="PrepandSignItemsNames.vi" Type="VI" URL="../_support/PrepandSignItemsNames.vi"/>
+		<Item Name="SaveVI.vi" Type="VI" URL="../_support/SaveVI.vi"/>
+		<Item Name="SetChanged.vi" Type="VI" URL="../_support/SetChanged.vi"/>
+		<Item Name="SetControlsIndicators.vi" Type="VI" URL="../_support/SetControlsIndicators.vi"/>
+		<Item Name="SetVIDescription&amp;Help.vi" Type="VI" URL="../_support/SetVIDescription&amp;Help.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
-		<Item Name="Cluster_Data.ctl" Type="VI" URL="../support/Cluster_Data.ctl">
+		<Item Name="Cluster_Data.ctl" Type="VI" URL="../_support/Cluster_Data.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
-		<Item Name="Event Data.ctl" Type="VI" URL="../support/Event Data.ctl">
+		<Item Name="Event Data.ctl" Type="VI" URL="../_support/Event Data.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
-		<Item Name="user action.ctl" Type="VI" URL="../support/user action.ctl">
+		<Item Name="user action.ctl" Type="VI" URL="../_support/user action.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>

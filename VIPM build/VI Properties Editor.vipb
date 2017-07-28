@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-07-27 17:26:45" Modified_Date="2017-07-28 07:57:32" Creator="Elmar Schneider" Comments="" ID="3316ffe1487ce0650dd0707c17000eae">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-07-27 17:26:45" Modified_Date="2017-07-28 08:08:32" Creator="Elmar Schneider" Comments="" ID="6c0950aa1f3e7143219a40a2f379322c">
   <Library_General_Settings>
     <Package_File_Name>Merecs_Engineering_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>1.0.0.9</Library_Version>
+    <Library_Version>1.1.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -29,8 +29,8 @@
     <Description>
       <One_Line_Description_Summary/>
       <Description>Fork of the VI Properties Editor by NI, see https://forums.ni.com/t5/Developer-Center-Resources/VI-Properties-Editor/ta-p/3492371</Description>
-      <Copyright/>
-      <Packager/>
+      <Copyright>Copyright (c) 2017, NI Labs/ Elmar Schneider</Copyright>
+      <Packager>NI Labs/ Elmar Schneider</Packager>
       <URL>www.merecs.de</URL>
       <Release_Notes>- NEW: Save only changed VIs. Changed VIs are display with an "!"
 - NEW: Open a VI with double click
@@ -203,7 +203,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Update VI Properties 1.1.0.0</NameSub_Menu_Name>
+        <NameSub_Menu_Name>VI Properties Editor</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -214,7 +214,7 @@
         <Path>..\src\Update VI Properties.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7E8031C458110E14EEAD85CBD24412AB</GUID>
+      <GUID>11440BCDE4B693E30FA4DBE3F293722F</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -235,7 +235,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <GUID>75E3B61CF5478B1CB26834560D5AC41E</GUID>
+      <GUID>A15BF4A8C9B1146A5CA513E111ACF839</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

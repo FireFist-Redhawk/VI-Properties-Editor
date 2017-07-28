@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-07-27 17:26:45" Modified_Date="2017-07-27 22:39:26" Creator="Elmar Schneider" Comments="" ID="40d650e4f2ece533c59967fad3bb7316">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-07-27 17:26:45" Modified_Date="2017-07-28 07:57:32" Creator="Elmar Schneider" Comments="" ID="3316ffe1487ce0650dd0707c17000eae">
   <Library_General_Settings>
     <Package_File_Name>Merecs_Engineering_lib_VI_Properties_Editor</Package_File_Name>
     <Library_Version>1.0.0.9</Library_Version>
@@ -33,6 +33,8 @@
       <Packager/>
       <URL>www.merecs.de</URL>
       <Release_Notes>- NEW: Save only changed VIs. Changed VIs are display with an "!"
+- NEW: Open a VI with double click
+- NEW: Show Execution Info: reentrant &amp; inline
 - CHG: Code Refactoring
 - Bug: Fixed: Invalid VIs interrupt the saving routine</Release_Notes>
     </Description>
@@ -112,11 +114,6 @@
         <Path>.</Path>
         <Namespace_Type>Suffix</Namespace_Type>
         <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>support</Path>
-        <Namespace_Type>Suffix</Namespace_Type>
-        <Namespace>_MerecsLib</Namespace>
       </Namespace_Overrides>
     </Source_Files>
     <License_Agreement_Filepath/>
@@ -217,7 +214,7 @@
         <Path>..\src\Update VI Properties.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0578C285B86D128BFE2B24E00D45118B</GUID>
+      <GUID>7E8031C458110E14EEAD85CBD24412AB</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -236,9 +233,9 @@
       <Description/>
       <Synchronization_Info>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
-        <Synchronize_Directory_Path>..\..\..\..\..</Synchronize_Directory_Path>
+        <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <GUID>FCC6BE4D260B788FB3523934C0ADB9BA</GUID>
+      <GUID>75E3B61CF5478B1CB26834560D5AC41E</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

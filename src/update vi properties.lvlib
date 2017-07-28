@@ -13,6 +13,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="AbbrevationClassesInLibrary.vi" Type="VI" URL="../_support/AbbrevationClassesInLibrary.vi"/>
 		<Item Name="apply control changes.vi" Type="VI" URL="../_support/apply control changes.vi"/>
 		<Item Name="change all descriptions.vi" Type="VI" URL="../_support/change all descriptions.vi"/>
 		<Item Name="GetCtrlData.vi" Type="VI" URL="../_support/GetCtrlData.vi"/>

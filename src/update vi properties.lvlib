@@ -13,29 +13,29 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="AbbrevationClassesInLibrary.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/AbbrevationClassesInLibrary.vi"/>
-		<Item Name="apply control changes.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/apply control changes.vi"/>
-		<Item Name="change all descriptions.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/change all descriptions.vi"/>
-		<Item Name="Get Copyright Path.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/Get Copyright Path.vi"/>
-		<Item Name="GetCtrlData.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/GetCtrlData.vi"/>
-		<Item Name="GetVIData.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/GetVIData.vi"/>
-		<Item Name="GetVIDescription&amp;Help.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/GetVIDescription&amp;Help.vi"/>
-		<Item Name="PrepandSignItemsNames.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/PrepandSignItemsNames.vi"/>
-		<Item Name="SaveVI.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/SaveVI.vi"/>
-		<Item Name="SetChanged.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/SetChanged.vi"/>
-		<Item Name="SetControlsIndicators.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/SetControlsIndicators.vi"/>
-		<Item Name="SetVIDescription&amp;Help.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/SetVIDescription&amp;Help.vi"/>
+		<Item Name="AbbrevationClassesInLibrary.vi" Type="VI" URL="../_support/AbbrevationClassesInLibrary.vi"/>
+		<Item Name="apply control changes.vi" Type="VI" URL="../_support/apply control changes.vi"/>
+		<Item Name="change all descriptions.vi" Type="VI" URL="../_support/change all descriptions.vi"/>
+		<Item Name="Get Copyright Path.vi" Type="VI" URL="../_support/Get Copyright Path.vi"/>
+		<Item Name="GetCtrlData.vi" Type="VI" URL="../_support/GetCtrlData.vi"/>
+		<Item Name="GetVIData.vi" Type="VI" URL="../_support/GetVIData.vi"/>
+		<Item Name="GetVIDescription&amp;Help.vi" Type="VI" URL="../_support/GetVIDescription&amp;Help.vi"/>
+		<Item Name="PrepandSignItemsNames.vi" Type="VI" URL="../_support/PrepandSignItemsNames.vi"/>
+		<Item Name="SaveVI.vi" Type="VI" URL="../_support/SaveVI.vi"/>
+		<Item Name="SetChanged.vi" Type="VI" URL="../_support/SetChanged.vi"/>
+		<Item Name="SetControlsIndicators.vi" Type="VI" URL="../_support/SetControlsIndicators.vi"/>
+		<Item Name="SetVIDescription&amp;Help.vi" Type="VI" URL="../_support/SetVIDescription&amp;Help.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
-		<Item Name="Cluster_Data.ctl" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/Cluster_Data.ctl">
+		<Item Name="Cluster_Data.ctl" Type="VI" URL="../_support/Cluster_Data.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
-		<Item Name="Event Data.ctl" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/Event Data.ctl">
+		<Item Name="Event Data.ctl" Type="VI" URL="../_support/Event Data.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
-		<Item Name="user action.ctl" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/_support/user action.ctl">
+		<Item Name="user action.ctl" Type="VI" URL="../_support/user action.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>
-	<Item Name="Update VI Properties.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2016/project/Merecs Engineering/Update VI Properties.vi"/>
+	<Item Name="Update VI Properties.vi" Type="VI" URL="../Update VI Properties.vi"/>
 </Library>

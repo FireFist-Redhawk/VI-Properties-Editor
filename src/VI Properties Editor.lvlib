@@ -13,21 +13,26 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="AbbrevationClassesInLibrary.vi" Type="VI" URL="../_support/AbbrevationClassesInLibrary.vi"/>
-		<Item Name="apply control changes.vi" Type="VI" URL="../_support/apply control changes.vi"/>
-		<Item Name="change all descriptions.vi" Type="VI" URL="../_support/change all descriptions.vi"/>
+		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../_support/Abbreviate Classes in Library.vi"/>
+		<Item Name="Add Copyright.vi" Type="VI" URL="../_support/Add Copyright.vi"/>
+		<Item Name="Apply Control Changess.vi" Type="VI" URL="../_support/Apply Control Changess.vi"/>
+		<Item Name="Change All Descriptionss.vi" Type="VI" URL="../_support/Change All Descriptionss.vi"/>
+		<Item Name="Change Controls.vi" Type="VI" URL="../_support/Change Controls.vi"/>
+		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../_support/FaKI State Machine.lvlib"/>
+		<Item Name="Get All VI Data.vi" Type="VI" URL="../_support/Get All VI Data.vi"/>
+		<Item Name="Get Control Data.vi" Type="VI" URL="../_support/Get Control Data.vi"/>
 		<Item Name="Get Copyright Path.vi" Type="VI" URL="../_support/Get Copyright Path.vi"/>
-		<Item Name="GetCtrlData.vi" Type="VI" URL="../_support/GetCtrlData.vi"/>
-		<Item Name="GetVIData.vi" Type="VI" URL="../_support/GetVIData.vi"/>
-		<Item Name="GetVIDescription&amp;Help.vi" Type="VI" URL="../_support/GetVIDescription&amp;Help.vi"/>
-		<Item Name="PrepandSignItemsNames.vi" Type="VI" URL="../_support/PrepandSignItemsNames.vi"/>
-		<Item Name="SaveVI.vi" Type="VI" URL="../_support/SaveVI.vi"/>
-		<Item Name="SetChanged.vi" Type="VI" URL="../_support/SetChanged.vi"/>
-		<Item Name="SetControlsIndicators.vi" Type="VI" URL="../_support/SetControlsIndicators.vi"/>
-		<Item Name="SetVIDescription&amp;Help.vi" Type="VI" URL="../_support/SetVIDescription&amp;Help.vi"/>
+		<Item Name="Get VI Data.vi" Type="VI" URL="../_support/Get VI Data.vi"/>
+		<Item Name="Get VI Description and Help.vi" Type="VI" URL="../_support/Get VI Description and Help.vi"/>
+		<Item Name="Prep and Sign Items Names.vi" Type="VI" URL="../_support/Prep and Sign Items Names.vi"/>
+		<Item Name="Save All VI Data.vi" Type="VI" URL="../_support/Save All VI Data.vi"/>
+		<Item Name="Save VI.vi" Type="VI" URL="../_support/Save VI.vi"/>
+		<Item Name="Set Changed.vi" Type="VI" URL="../_support/Set Changed.vi"/>
+		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../_support/Set Controls and Indicators.vi"/>
+		<Item Name="Set VI Description and Help.vi" Type="VI" URL="../_support/Set VI Description and Help.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
-		<Item Name="Cluster_Data.ctl" Type="VI" URL="../_support/Cluster_Data.ctl">
+		<Item Name="Cluster Data.ctl" Type="VI" URL="../_support/Cluster Data.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="Event Data.ctl" Type="VI" URL="../_support/Event Data.ctl">
@@ -36,6 +41,9 @@
 		<Item Name="user action.ctl" Type="VI" URL="../_support/user action.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../_support/VI Properties Editor State Data.ctl">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
 	</Item>
-	<Item Name="Update VI Properties.vi" Type="VI" URL="../Update VI Properties.vi"/>
+	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
 </Library>

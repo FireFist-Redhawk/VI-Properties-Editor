@@ -15,8 +15,8 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../_support/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../_support/Add Copyright.vi"/>
-		<Item Name="Apply Control Changess.vi" Type="VI" URL="../_support/Apply Control Changess.vi"/>
-		<Item Name="Change All Descriptionss.vi" Type="VI" URL="../_support/Change All Descriptionss.vi"/>
+		<Item Name="Apply Control Changes.vi" Type="VI" URL="../_support/Apply Control Changes.vi"/>
+		<Item Name="Change All Descriptions.vi" Type="VI" URL="../_support/Change All Descriptions.vi"/>
 		<Item Name="Change Controls.vi" Type="VI" URL="../_support/Change Controls.vi"/>
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../_support/FaKI State Machine.lvlib"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../_support/Get All VI Data.vi"/>

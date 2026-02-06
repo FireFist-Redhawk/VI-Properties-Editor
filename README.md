@@ -1,4 +1,12 @@
-# README #
+# README
+
+Originally hosted at:
+https://bitbucket.org/merecsengineering/vi-properties-editor
+
+Migrated to GitHub on 2026-02-05.
+
+
+# Original README Content
 
 Fork of NI Properties Editor: https://forums.ni.com/t5/Developer-Center-Resources/VI-Properties-Editor/ta-p/3492371
 

@@ -38,7 +38,6 @@
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Cluster Data.ctl" Type="VI" URL="../_support/Cluster Data.ctl"/>
 		<Item Name="Control Properties.ctl" Type="VI" URL="../_support/Control Properties.ctl"/>
 		<Item Name="Event Data.ctl" Type="VI" URL="../_support/Event Data.ctl"/>
 		<Item Name="user action.ctl" Type="VI" URL="../_support/user action.ctl"/>

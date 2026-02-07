@@ -33,13 +33,14 @@
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine.lvlib"/>
+		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
 		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi"/>
 		<Item Name="Get Copyright Path.vi" Type="VI" URL="../SubVIs/Get Copyright Path.vi"/>
 		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
-		<Item Name="Prepend Changed Item Names.vi" Type="VI" URL="../SubVIs/Prepend Changed Item Names.vi"/>
+		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Changed.vi" Type="VI" URL="../SubVIs/Set Changed.vi"/>

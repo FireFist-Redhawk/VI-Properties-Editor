@@ -18,6 +18,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
 		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
+		<Item Name="VI Properties Editor Front Panel Controls.ctl" Type="VI" URL="../CTLs/VI Properties Editor Front Panel Controls.ctl"/>
 		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../CTLs/VI Properties Editor State Data.ctl"/>
 		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
 	</Item>
@@ -25,6 +26,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
+		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Apply Control Changes.vi" Type="VI" URL="../SubVIs/Apply Control Changes.vi"/>
 		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
 		<Item Name="Change Controls.vi" Type="VI" URL="../SubVIs/Change Controls.vi"/>
@@ -36,13 +38,13 @@
 		<Item Name="Get Copyright Path.vi" Type="VI" URL="../SubVIs/Get Copyright Path.vi"/>
 		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
-		<Item Name="Get VI Description and Help.vi" Type="VI" URL="../SubVIs/Get VI Description and Help.vi"/>
+		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Prepend Changed Item Names.vi" Type="VI" URL="../SubVIs/Prepend Changed Item Names.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Changed.vi" Type="VI" URL="../SubVIs/Set Changed.vi"/>
 		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
-		<Item Name="Set VI Description and Help.vi" Type="VI" URL="../SubVIs/Set VI Description and Help.vi"/>
+		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
 	</Item>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
 </Library>

@@ -15,80 +15,34 @@
 
 </Property>
 	<Item Name="CTLs" Type="Folder">
-		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../CTLs/VI Properties Editor State Data.ctl">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
+		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
+		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../CTLs/VI Properties Editor State Data.ctl"/>
+		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Apply Control Changes.vi" Type="VI" URL="../SubVIs/Apply Control Changes.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Change Controls.vi" Type="VI" URL="../SubVIs/Change Controls.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine.lvlib">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get Copyright Path.vi" Type="VI" URL="../SubVIs/Get Copyright Path.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Get VI Description and Help.vi" Type="VI" URL="../SubVIs/Get VI Description and Help.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Prepend Changed Item Names.vi" Type="VI" URL="../SubVIs/Prepend Changed Item Names.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Set Changed.vi" Type="VI" URL="../SubVIs/Set Changed.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Set VI Description and Help.vi" Type="VI" URL="../SubVIs/Set VI Description and Help.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
+		<Item Name="Apply Control Changes.vi" Type="VI" URL="../SubVIs/Apply Control Changes.vi"/>
+		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
+		<Item Name="Change Controls.vi" Type="VI" URL="../SubVIs/Change Controls.vi"/>
+		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
+		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
+		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine.lvlib"/>
+		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
+		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi"/>
+		<Item Name="Get Copyright Path.vi" Type="VI" URL="../SubVIs/Get Copyright Path.vi"/>
+		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
+		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
+		<Item Name="Get VI Description and Help.vi" Type="VI" URL="../SubVIs/Get VI Description and Help.vi"/>
+		<Item Name="Prepend Changed Item Names.vi" Type="VI" URL="../SubVIs/Prepend Changed Item Names.vi"/>
+		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
+		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
+		<Item Name="Set Changed.vi" Type="VI" URL="../SubVIs/Set Changed.vi"/>
+		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
+		<Item Name="Set VI Description and Help.vi" Type="VI" URL="../SubVIs/Set VI Description and Help.vi"/>
 	</Item>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
 </Library>

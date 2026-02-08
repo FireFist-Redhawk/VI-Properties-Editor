@@ -43,7 +43,6 @@
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
-		<Item Name="Set Changed.vi" Type="VI" URL="../SubVIs/Set Changed.vi"/>
 		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
 	</Item>

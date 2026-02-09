@@ -16,6 +16,7 @@
 </Property>
 	<Item Name="CTLs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
 		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
 		<Item Name="VI Properties Editor Front Panel Controls.ctl" Type="VI" URL="../CTLs/VI Properties Editor Front Panel Controls.ctl"/>
@@ -25,13 +26,16 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Apply Control Changes.vi" Type="VI" URL="../SubVIs/Apply Control Changes.vi"/>
 		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
 		<Item Name="Change Controls.vi" Type="VI" URL="../SubVIs/Change Controls.vi"/>
+		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
+		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine.lvlib"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
@@ -40,11 +44,16 @@
 		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
+		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
+		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
+		<Item Name="Remove Bold Tags.vi" Type="VI" URL="../SubVIs/Remove Bold Tags.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
+		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
+	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
 </Library>

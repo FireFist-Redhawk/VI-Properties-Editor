@@ -31,7 +31,6 @@
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
-		<Item Name="Apply Control Changes.vi" Type="VI" URL="../SubVIs/Apply Control Changes.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
 		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
 		<Item Name="Change Controls.vi" Type="VI" URL="../SubVIs/Change Controls.vi"/>
@@ -44,7 +43,6 @@
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
 		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi"/>
-		<Item Name="Get Copyright Path.vi" Type="VI" URL="../SubVIs/Get Copyright Path.vi"/>
 		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>

@@ -25,6 +25,12 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Support for FaKI State Machine" Type="Folder">
+			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Build Error Message.vi"/>
+			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Enqueue Multiple States.vi"/>
+			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Parse Element.vi"/>
+			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
+		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
@@ -36,7 +42,7 @@
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
-		<Item Name="FaKI SM.lvlib" Type="Library" URL="../SubVIs/FaKI SM.lvlib"/>
+		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>

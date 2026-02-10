@@ -53,10 +53,12 @@
 		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
 		<Item Name="Remove Bold Tags.vi" Type="VI" URL="../SubVIs/Remove Bold Tags.vi"/>
 		<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>
+		<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
+		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>

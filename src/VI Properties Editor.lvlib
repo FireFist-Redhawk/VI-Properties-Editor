@@ -18,6 +18,9 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
+		<Item Name="Filter Column.ctl" Type="VI" URL="../CTLs/Filter Column.ctl"/>
+		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
+		<Item Name="Filter.ctl" Type="VI" URL="../CTLs/Filter.ctl"/>
 		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
 		<Item Name="VI Properties Editor Front Panel Controls.ctl" Type="VI" URL="../CTLs/VI Properties Editor Front Panel Controls.ctl"/>
 		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../CTLs/VI Properties Editor State Data.ctl"/>
@@ -42,8 +45,10 @@
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+		<Item Name="Edit Filter and Sort Options.vi" Type="VI" URL="../SubVIs/Edit Filter and Sort Options.vi"/>
 		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
+		<Item Name="Filter Items.vi" Type="VI" URL="../SubVIs/Filter Items.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>

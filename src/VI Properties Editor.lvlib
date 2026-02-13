@@ -42,10 +42,12 @@
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
 		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
 		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
+		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
 		<Item Name="Edit Filter and Sort Options.vi" Type="VI" URL="../SubVIs/Edit Filter and Sort Options.vi"/>
+		<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
 		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Filter Items.vi" Type="VI" URL="../SubVIs/Filter Items.vi"/>

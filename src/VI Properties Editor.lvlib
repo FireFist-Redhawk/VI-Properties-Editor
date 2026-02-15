@@ -26,9 +26,11 @@
 		<Item Name="VI Properties Editor Front Panel Controls.ctl" Type="VI" URL="../CTLs/VI Properties Editor Front Panel Controls.ctl"/>
 		<Item Name="VI Properties Editor State Data.ctl" Type="VI" URL="../CTLs/VI Properties Editor State Data.ctl"/>
 		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
+		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Support for FaKI State Machine" Type="Folder">
 			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Build Error Message.vi"/>
 			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Enqueue Multiple States.vi"/>
@@ -47,6 +49,7 @@
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+		<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
 		<Item Name="Edit Filter and Sort Options.vi" Type="VI" URL="../SubVIs/Edit Filter and Sort Options.vi"/>
 		<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
 		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>

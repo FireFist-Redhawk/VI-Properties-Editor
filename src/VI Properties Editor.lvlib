@@ -45,11 +45,11 @@
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
-		<Item Name="Change All Descriptions.vi" Type="VI" URL="../SubVIs/Change All Descriptions.vi"/>
 		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
+		<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
 		<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
 		<Item Name="Edit Filter and Sort Options.vi" Type="VI" URL="../SubVIs/Edit Filter and Sort Options.vi"/>
@@ -78,7 +78,7 @@
 		<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
-		<Item Name="Set Controls and Indicators.vi" Type="VI" URL="../SubVIs/Set Controls and Indicators.vi"/>
+		<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
 		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>

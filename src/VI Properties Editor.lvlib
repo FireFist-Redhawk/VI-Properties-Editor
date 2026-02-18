@@ -50,7 +50,9 @@
 		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
+		<Item Name="Convert Filter INI String to Cluster.vi" Type="VI" URL="../SubVIs/Convert Filter INI String to Cluster.vi"/>
 		<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
+		<Item Name="Convert Filter to INI String.vi" Type="VI" URL="../SubVIs/Convert Filter to INI String.vi"/>
 		<Item Name="Convert String Array to INI Value.vi" Type="VI" URL="../SubVIs/Convert String Array to INI Value.vi"/>
 		<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>

@@ -53,6 +53,7 @@
 		<Item Name="Convert Filter INI String to Cluster.vi" Type="VI" URL="../SubVIs/Convert Filter INI String to Cluster.vi"/>
 		<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
 		<Item Name="Convert Filter to INI String.vi" Type="VI" URL="../SubVIs/Convert Filter to INI String.vi"/>
+		<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
 		<Item Name="Convert String Array to INI Value.vi" Type="VI" URL="../SubVIs/Convert String Array to INI Value.vi"/>
 		<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
 		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>

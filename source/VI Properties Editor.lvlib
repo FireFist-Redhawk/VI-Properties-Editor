@@ -46,6 +46,7 @@
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
+		<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
 		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>

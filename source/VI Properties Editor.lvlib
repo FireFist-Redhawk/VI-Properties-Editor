@@ -88,6 +88,7 @@
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
+		<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
 		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		<Item Name="Uncheck Submenu Items.vi" Type="VI" URL="../SubVIs/Uncheck Submenu Items.vi"/>

@@ -65,6 +65,7 @@
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
+		<Item Name="Format Text Indicators.vi" Type="VI" URL="../SubVIs/Format Text Indicators.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>

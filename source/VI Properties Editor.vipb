@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-06 20:55:11" Creator="Elmar Schneider" Comments="" ID="9a1076258cfc01913a752dad217a0f43">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-06 22:07:38" Creator="Elmar Schneider" Comments="" ID="2ad51b3eaffbbb5f18025b4ff8cf600c">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>1.1.0.21</Library_Version>
+    <Library_Version>1.1.0.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>

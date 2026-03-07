@@ -8,6 +8,7 @@
 	<Property Name="EndevoGOOP_ColorTextHeader" Type="UInt">0</Property>
 	<Property Name="EndevoGOOP_FrameThickness" Type="UInt">1</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)_!!!*Q(C=\&gt;5R=B."%)8B"U6!;"%\!*6O]#*S85&amp;8[#MI&gt;;D9//G1A'2P1/E+@16&amp;*N96R,_D2I5JM"/A+-ITHP8KT=\-Z^H67BLFN@2+J[@+[N&amp;#`\G/]V-@6J?T"`WL]^G$QU`(&gt;^?J*VJ&gt;RP]QS;`[P]8HE]@^4R1^F_@S@Z?&lt;*\]%@`R\]%,TCYB7N+1&amp;T:K8026ZE2&gt;ZE2&gt;ZE3&gt;ZEC&gt;ZEC&gt;ZEA&gt;ZE!&gt;ZE!&gt;ZE*P=Z#9XO=F.0CKZS%5O=ED&amp;YM6#R;4&amp;"-8&amp;5&amp;1=#E`B+4S&amp;BY]K0)7H]"3?QM-F+DS&amp;J`!5HM,$-"7?QF.Y#E`B9;IBK6(*]21?JF@C34S**`%E(J:5YEE!S7,*R-EE-*2U*C?**`%E(E[6?"*0YEE]C9&gt;O*:\%EXA34_*BS.C6(*KZEO.B'A7?Q".Y!E`A97I&amp;HM!4?!*0Y'%Z":\!%S##"90*)3A9&amp;&amp;Q1@!A]A9&gt;@#DS"*`!%HM"$V\B$-8:GVMS6()`R')`R')`R-)7-RXC-RXC-BWFF0-:D0-:D0#QFYT%?YT%1MSD,SURG"JK,4'!]`)SHR?-OZ:"Y6+E@8P6$K8\9V!_2_O&amp;1XX4VT64@*08GKT&gt;6P6HK46$`=7KU'K.?2$VYPF"(DA@;HD&lt;2&gt;L1N&lt;5.&lt;UZ;UR4TU.V^Y0"ZV/"SUX_]V4:.WOZWWW[UWGYX7[\77S[57C]8F.@#7?HEBH.^,.ZR0V`@PJT&gt;XH[&lt;L,Z^PL_Y_XFZ^?$@H@_(`]T`Q&lt;N2,@&lt;]'?`16';&gt;;+A!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -63,9 +64,12 @@
 		<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
-		<Item Name="Format Help Path.vi" Type="VI" URL="../SubVIs/Format Help Path.vi"/>
+		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
+		<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
-		<Item Name="Format Text Indicators.vi" Type="VI" URL="../SubVIs/Format Text Indicators.vi"/>
+		<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
+		<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
+		<Item Name="Format View Parameter.vi" Type="VI" URL="../SubVIs/Format View Parameter.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>

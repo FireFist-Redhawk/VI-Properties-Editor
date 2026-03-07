@@ -1,9 +1,9 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-02-20 22:01:33" Creator="Elmar Schneider" Comments="" ID="ed4635be0add7456c1271df39a535b7e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-06 22:07:38" Creator="Elmar Schneider" Comments="" ID="2ad51b3eaffbbb5f18025b4ff8cf600c">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>1.0.0.20</Library_Version>
+    <Library_Version>1.1.0.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
-    <Library_Source_Folder>..\src-2020</Library_Source_Folder>
+    <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
     <Company_Name>Redhawk</Company_Name>
     <Library_Summary/>
@@ -49,7 +49,10 @@
 - VI Description
 - Help Path
 - Help Tag
-- Control names (labels)
+- Help URL
+- Help Type
+- Control names (labels) 
+- Control captions
 - Control descriptions
 - Control tip strips
 
@@ -57,7 +60,11 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
-      <Release_Notes>- Initial release</Release_Notes>
+      <Release_Notes>- Added Help URL and Help Type as VI properties that can be modified. (#26)
+- Added Caption as a control property that can be modified. (#17)
+- Added indicators for most Execution properties of VIs (Auto Error Handling, Allow Debugging, Reentrancy Type, etc.). (#13)
+- Centered all dialogs on the main window. (#14)
+- Changed the background color of columns in the Controls table that cannot be modified. (#15)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -145,13 +152,13 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       </Password_Overrides>
       <Namespace_Overrides>
         <Path>.</Path>
-        <Namespace_Type>Suffix</Namespace_Type>
+        <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
       <Namespace_Overrides>
         <Path>VI Properties Editor.lvlib</Path>
-        <Namespace_Type>Suffix</Namespace_Type>
-        <Namespace>_Redhawk</Namespace>
+        <Namespace_Type>Prefix</Namespace_Type>
+        <Namespace>Redhawk_</Namespace>
       </Namespace_Overrides>
       <Exclusions>
         <Path>VI Properties Editor.lvproj</Path>

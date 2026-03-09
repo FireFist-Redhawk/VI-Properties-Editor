@@ -8,7 +8,6 @@
 	<Property Name="EndevoGOOP_ColorTextHeader" Type="UInt">0</Property>
 	<Property Name="EndevoGOOP_FrameThickness" Type="UInt">1</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)_!!!*Q(C=\&gt;5R=B."%)8B"U6!;"%\!*6O]#*S85&amp;8[#MI&gt;;D9//G1A'2P1/E+@16&amp;*N96R,_D2I5JM"/A+-ITHP8KT=\-Z^H67BLFN@2+J[@+[N&amp;#`\G/]V-@6J?T"`WL]^G$QU`(&gt;^?J*VJ&gt;RP]QS;`[P]8HE]@^4R1^F_@S@Z?&lt;*\]%@`R\]%,TCYB7N+1&amp;T:K8026ZE2&gt;ZE2&gt;ZE3&gt;ZEC&gt;ZEC&gt;ZEA&gt;ZE!&gt;ZE!&gt;ZE*P=Z#9XO=F.0CKZS%5O=ED&amp;YM6#R;4&amp;"-8&amp;5&amp;1=#E`B+4S&amp;BY]K0)7H]"3?QM-F+DS&amp;J`!5HM,$-"7?QF.Y#E`B9;IBK6(*]21?JF@C34S**`%E(J:5YEE!S7,*R-EE-*2U*C?**`%E(E[6?"*0YEE]C9&gt;O*:\%EXA34_*BS.C6(*KZEO.B'A7?Q".Y!E`A97I&amp;HM!4?!*0Y'%Z":\!%S##"90*)3A9&amp;&amp;Q1@!A]A9&gt;@#DS"*`!%HM"$V\B$-8:GVMS6()`R')`R')`R-)7-RXC-RXC-BWFF0-:D0-:D0#QFYT%?YT%1MSD,SURG"JK,4'!]`)SHR?-OZ:"Y6+E@8P6$K8\9V!_2_O&amp;1XX4VT64@*08GKT&gt;6P6HK46$`=7KU'K.?2$VYPF"(DA@;HD&lt;2&gt;L1N&lt;5.&lt;UZ;UR4TU.V^Y0"ZV/"SUX_]V4:.WOZWWW[UWGYX7[\77S[57C]8F.@#7?HEBH.^,.ZR0V`@PJT&gt;XH[&lt;L,Z^PL_Y_XFZ^?$@H@_(`]T`Q&lt;N2,@&lt;]'?`16';&gt;;+A!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -30,6 +29,7 @@
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
 		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
 		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
+		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -39,6 +39,9 @@
 			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Enqueue Multiple States.vi"/>
 			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Parse Element.vi"/>
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
+		</Item>
+		<Item Name="VI Tree" Type="Folder">
+			<Item Name="Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/Tree Map.lvlib"/>
 		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
@@ -63,7 +66,10 @@
 		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>
 		<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
+		<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
+		<Item Name="Find Node Attribute from File Recursively.vi" Type="VI" URL="../SubVIs/Find Node Attribute from File Recursively.vi"/>
+		<Item Name="Find Node Attribute.vi" Type="VI" URL="../SubVIs/Find Node Attribute.vi"/>
 		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
 		<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
@@ -81,6 +87,7 @@
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+		<Item Name="Parse Xml Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Recursively.vi"/>
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>

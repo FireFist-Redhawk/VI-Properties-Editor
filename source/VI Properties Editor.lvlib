@@ -15,7 +15,7 @@
 
 </Property>
 	<Item Name="CTLs" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Column Name.ctl" Type="VI" URL="../CTLs/Column Name.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
@@ -32,7 +32,7 @@
 		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Support for FaKI State Machine" Type="Folder">
 			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Build Error Message.vi"/>
@@ -69,7 +69,7 @@
 		<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
 		<Item Name="Find Node Attribute from File Recursively.vi" Type="VI" URL="../SubVIs/Find Node Attribute from File Recursively.vi"/>
-		<Item Name="Find Node Attribute.vi" Type="VI" URL="../SubVIs/Find Node Attribute.vi"/>
+		<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
 		<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>

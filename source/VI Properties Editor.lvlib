@@ -41,7 +41,7 @@
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 		</Item>
 		<Item Name="VI Tree" Type="Folder">
-			<Item Name="Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/Tree Map.lvlib"/>
+			<Item Name="VI Prop Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/VI Prop Tree Map.lvlib"/>
 		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>

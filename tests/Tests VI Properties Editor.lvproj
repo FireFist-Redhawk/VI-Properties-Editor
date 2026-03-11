@@ -14,6 +14,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Parsing XML.lvclass" Type="LVClass" URL="../Parsing XML/Parsing XML.lvclass"/>
+		<Item Name="VI Tree.lvclass" Type="LVClass" URL="../VI Tree/VI Tree.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

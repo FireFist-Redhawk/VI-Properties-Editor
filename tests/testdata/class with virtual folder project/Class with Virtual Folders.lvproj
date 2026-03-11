@@ -4,6 +4,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -13,16 +14,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Virtual Folder1" Type="Folder">
-			<Item Name="VF11" Type="Folder">
-				<Item Name="Untitled 11.vi" Type="VI" URL="../../../Parsing XML/Untitled 11.vi"/>
-			</Item>
-			<Item Name="VI1.vi" Type="VI" URL="../VI1.vi"/>
-			<Item Name="VI12.vi" Type="VI" URL="../VI12.vi"/>
+		<Item Name="New Folder" Type="Folder">
+			<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		</Item>
-		<Item Name="Virtual Folder2" Type="Folder">
-			<Item Name="VI2.vi" Type="VI" URL="../VI2.vi"/>
-		</Item>
+		<Item Name="AAA.lvclass" Type="LVClass" URL="../AAA/AAA.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

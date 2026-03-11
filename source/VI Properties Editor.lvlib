@@ -41,7 +41,7 @@
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 		</Item>
 		<Item Name="VI Tree" Type="Folder">
-			<Item Name="VI Prop Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/VI Prop Tree Map.lvlib"/>
+			<Item Name="VI Properties Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/VI Properties Tree Map.lvlib"/>
 		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
@@ -68,7 +68,6 @@
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
-		<Item Name="Find Node Attribute from File Recursively.vi" Type="VI" URL="../SubVIs/Find Node Attribute from File Recursively.vi"/>
 		<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
 		<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
@@ -87,7 +86,8 @@
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
-		<Item Name="Parse Xml Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Recursively.vi"/>
+		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
+		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
@@ -107,4 +107,5 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
+	<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 </Library>

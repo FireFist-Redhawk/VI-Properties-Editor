@@ -40,9 +40,6 @@
 			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Parse Element.vi"/>
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 		</Item>
-		<Item Name="VI Tree" Type="Folder">
-			<Item Name="VI Properties Tree Map.lvlib" Type="Library" URL="../SubVIs/Tree Map/VI Properties Tree Map.lvlib"/>
-		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
@@ -86,6 +83,7 @@
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
 		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
@@ -107,5 +105,4 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
-	<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 </Library>

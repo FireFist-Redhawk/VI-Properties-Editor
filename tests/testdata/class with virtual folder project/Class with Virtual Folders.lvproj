@@ -18,6 +18,7 @@
 			<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		</Item>
 		<Item Name="AAA.lvclass" Type="LVClass" URL="../AAA/AAA.lvclass"/>
+		<Item Name="Classic Vi.vi" Type="VI" URL="../../virtual folders on target/Classic Vi.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

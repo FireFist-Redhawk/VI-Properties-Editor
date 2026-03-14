@@ -15,7 +15,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Virtual Folder1" Type="Folder">
 			<Item Name="VF11" Type="Folder">
-				<Item Name="Untitled 11.vi" Type="VI" URL="../../../Parsing XML/Untitled 11.vi"/>
+				<Item Name="VI11.vi" Type="VI" URL="../VI11.vi"/>
 			</Item>
 			<Item Name="VI1.vi" Type="VI" URL="../VI1.vi"/>
 			<Item Name="VI12.vi" Type="VI" URL="../VI12.vi"/>

@@ -20,15 +20,12 @@
 		<Item Name="Column Name.ctl" Type="VI" URL="../CTLs/Column Name.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
-		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
-		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
-		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
 		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
@@ -50,7 +47,6 @@
 		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
-		<Item Name="Convert Controls to Cluster.vi" Type="VI" URL="../SubVIs/Convert Controls to Cluster.vi"/>
 		<Item Name="Convert Filter INI String to Cluster.vi" Type="VI" URL="../SubVIs/Convert Filter INI String to Cluster.vi"/>
 		<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
 		<Item Name="Convert Filter to INI String.vi" Type="VI" URL="../SubVIs/Convert Filter to INI String.vi"/>
@@ -71,17 +67,10 @@
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
 		<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
-		<Item Name="Format View Parameter.vi" Type="VI" URL="../SubVIs/Format View Parameter.vi"/>
-		<Item Name="Get All Folder VI Data--Class.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data--Class.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
-		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi"/>
-		<Item Name="Get Global VI Data.vi" Type="VI" URL="../SubVIs/Get Global VI Data.vi"/>
-		<Item Name="Get Item Data.vi" Type="VI" URL="../SubVIs/Get Item Data.vi"/>
-		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
-		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
 		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
@@ -95,7 +84,6 @@
 		<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>
 		<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
-		<Item Name="Save VI.vi" Type="VI" URL="../SubVIs/Save VI.vi"/>
 		<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
 		<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>

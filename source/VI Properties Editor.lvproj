@@ -15,7 +15,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Project Tree.lvlib" Type="Library" URL="../SubVIs/Tree Map/Project Tree.lvlib"/>
 		<Item Name="VI Properties Editor.lvlib" Type="Library" URL="../VI Properties Editor.lvlib"/>
 		<Item Name="Tests VI Properties Editor.lvproj" Type="Document" URL="../../tests/Tests VI Properties Editor.lvproj"/>
 		<Item Name="Dependencies" Type="Dependencies"/>

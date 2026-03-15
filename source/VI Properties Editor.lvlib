@@ -72,6 +72,7 @@
 		<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
 		<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
 		<Item Name="Format View Parameter.vi" Type="VI" URL="../SubVIs/Format View Parameter.vi"/>
+		<Item Name="Get All Folder VI Data--Class.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data--Class.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>
@@ -104,13 +105,17 @@
 		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
 	<Item Name="Classes" Type="Folder">
-		<Item Name="Item.lvclass" Type="LVClass" URL="../Classes/Item/Item.lvclass"/>
-		<Item Name="VI.lvclass" Type="LVClass" URL="../Classes/VI/VI.lvclass"/>
-		<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Initialize Item.vi"/>
-		<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Item Type.ctl"/>
+		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Item Name="Support" Type="Folder">
+			<Item Name="Defer Panel Updates.vi" Type="VI" URL="../Classes/Support/Defer Panel Updates.vi"/>
+			<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Support/Initialize Item.vi"/>
+			<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Support/Item Type.ctl"/>
+		</Item>
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Classes/Control/Control.lvclass"/>
+		<Item Name="Item.lvclass" Type="LVClass" URL="../Classes/Item/Item.lvclass"/>
+		<Item Name="Project Tree Map.lvclass" Type="LVClass" URL="../Classes/Tree Map/Project Tree Map.lvclass"/>
+		<Item Name="VI.lvclass" Type="LVClass" URL="../Classes/VI/VI.lvclass"/>
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
-	<Item Name="Get All Folder VI Data--Class.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data--Class.vi"/>
 </Library>

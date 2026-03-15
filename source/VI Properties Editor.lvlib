@@ -103,6 +103,14 @@
 		<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
 		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
+	<Item Name="Classes" Type="Folder">
+		<Item Name="Item.lvclass" Type="LVClass" URL="../Classes/Item/Item.lvclass"/>
+		<Item Name="VI.lvclass" Type="LVClass" URL="../Classes/VI/VI.lvclass"/>
+		<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Initialize Item.vi"/>
+		<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Item Type.ctl"/>
+		<Item Name="Control.lvclass" Type="LVClass" URL="../Classes/Control/Control.lvclass"/>
+	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
+	<Item Name="Get All Folder VI Data--Class.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data--Class.vi"/>
 </Library>

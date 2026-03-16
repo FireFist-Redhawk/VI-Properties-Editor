@@ -71,8 +71,10 @@
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
+		<Item Name="Get Project Items New.vi" Type="VI" URL="../SubVIs/Get Project Items New.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+		<Item Name="Overlay Access Scope Test.vi" Type="VI" URL="../SubVIs/Overlay Access Scope Test.vi"/>
 		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
 		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
@@ -93,6 +95,7 @@
 		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
 	<Item Name="Classes" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Support" Type="Folder">
 			<Item Name="Defer Panel Updates.vi" Type="VI" URL="../Classes/Support/Defer Panel Updates.vi"/>

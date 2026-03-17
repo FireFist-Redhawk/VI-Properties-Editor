@@ -22,6 +22,7 @@
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
+		<Item Name="Items Map Value.ctl" Type="VI" URL="../CTLs/Items Map Value.ctl"/>
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
@@ -38,8 +39,11 @@
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+		<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
+		<Item Name="Add Descendents to Items Map.vi" Type="VI" URL="../SubVIs/Add Descendents to Items Map.vi"/>
+		<Item Name="Add Target to Items Map.vi" Type="VI" URL="../SubVIs/Add Target to Items Map.vi"/>
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
@@ -71,9 +75,11 @@
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
 		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>
 		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
+		<Item Name="Get Items Data.vi" Type="VI" URL="../SubVIs/Get Items Data.vi"/>
 		<Item Name="Get Project Items New.vi" Type="VI" URL="../SubVIs/Get Project Items New.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+		<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
 		<Item Name="Overlay Access Scope Test.vi" Type="VI" URL="../SubVIs/Overlay Access Scope Test.vi"/>
 		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>

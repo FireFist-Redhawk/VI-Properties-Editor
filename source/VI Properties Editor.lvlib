@@ -82,7 +82,7 @@
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
 		<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
 		<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
-		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
+		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../SubVIs/Parse Elements Treewise.vi"/>
 		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
 		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
@@ -93,6 +93,7 @@
 		<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>
 		<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
 		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
+		<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
 		<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
 		<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
@@ -116,5 +117,4 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
-	<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
 </Library>

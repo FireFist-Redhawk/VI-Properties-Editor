@@ -43,7 +43,9 @@
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
 		<Item Name="Add Descendents to Items Map.vi" Type="VI" URL="../SubVIs/Add Descendents to Items Map.vi"/>
+		<Item Name="Add Folder Item.vi" Type="VI" URL="../SubVIs/Add Folder Item.vi"/>
 		<Item Name="Add Target to Items Map.vi" Type="VI" URL="../SubVIs/Add Target to Items Map.vi"/>
+		<Item Name="Add Top-Level Item to Items Map.vi" Type="VI" URL="../SubVIs/Add Top-Level Item to Items Map.vi"/>
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
@@ -71,16 +73,15 @@
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
 		<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
-		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
-		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
-		<Item Name="Get All Project VI Data.vi" Type="VI" URL="../SubVIs/Get All Project VI Data.vi"/>
-		<Item Name="Get All VI Data.vi" Type="VI" URL="../SubVIs/Get All VI Data.vi"/>
+		<Item Name="Get All Items.vi" Type="VI" URL="../SubVIs/Get All Items.vi"/>
+		<Item Name="Get Folder Items.vi" Type="VI" URL="../SubVIs/Get Folder Items.vi"/>
 		<Item Name="Get Items Data.vi" Type="VI" URL="../SubVIs/Get Items Data.vi"/>
-		<Item Name="Get Project Items New.vi" Type="VI" URL="../SubVIs/Get Project Items New.vi"/>
+		<Item Name="Get Library Items.vi" Type="VI" URL="../SubVIs/Get Library Items.vi"/>
+		<Item Name="Get Project Items.vi" Type="VI" URL="../SubVIs/Get Project Items.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+		<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
 		<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
-		<Item Name="Overlay Access Scope Test.vi" Type="VI" URL="../SubVIs/Overlay Access Scope Test.vi"/>
 		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../Parse Elements Treewise.vi"/>
 		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
 		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
@@ -115,4 +116,5 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
+	<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
 </Library>

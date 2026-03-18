@@ -42,10 +42,9 @@
 		<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
-		<Item Name="Add Descendents to Items Map.vi" Type="VI" URL="../SubVIs/Add Descendents to Items Map.vi"/>
+		<Item Name="Add Descendent Items.vi" Type="VI" URL="../SubVIs/Add Descendent Items.vi"/>
 		<Item Name="Add Folder Item.vi" Type="VI" URL="../SubVIs/Add Folder Item.vi"/>
-		<Item Name="Add Target to Items Map.vi" Type="VI" URL="../SubVIs/Add Target to Items Map.vi"/>
-		<Item Name="Add Top-Level Item to Items Map.vi" Type="VI" URL="../SubVIs/Add Top-Level Item to Items Map.vi"/>
+		<Item Name="Add Top-Level Item.vi" Type="VI" URL="../SubVIs/Add Top-Level Item.vi"/>
 		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
 		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>

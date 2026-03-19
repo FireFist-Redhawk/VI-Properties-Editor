@@ -18,6 +18,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Column Name.ctl" Type="VI" URL="../CTLs/Column Name.ctl"/>
+		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
@@ -26,6 +27,7 @@
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
+		<Item Name="Sort Column.ctl" Type="VI" URL="../CTLs/Sort Column.ctl"/>
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
 		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
 	</Item>
@@ -87,6 +89,7 @@
 		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
+		<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
 		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
 		<Item Name="Remove Bold Tags.vi" Type="VI" URL="../SubVIs/Remove Bold Tags.vi"/>
 		<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>

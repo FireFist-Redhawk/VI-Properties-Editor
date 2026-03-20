@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-06 22:07:38" Creator="Elmar Schneider" Comments="" ID="2ad51b3eaffbbb5f18025b4ff8cf600c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-20 15:27:05" Creator="Elmar Schneider" Comments="" ID="65173911b76af038e4c29459d5903213">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>1.1.0.22</Library_Version>
+    <Library_Version>1.1.0.23</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -134,13 +134,7 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>VI Properties Editor.vi</Path>
-        <Destination>7</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>VI Properties Editor.rtm</Path>
+        <Path>Launcher.vi</Path>
         <Destination>7</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
@@ -162,6 +156,9 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       </Namespace_Overrides>
       <Exclusions>
         <Path>VI Properties Editor.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.VI Properties Editor.UserState</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>

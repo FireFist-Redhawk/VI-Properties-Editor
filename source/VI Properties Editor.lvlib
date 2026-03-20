@@ -123,4 +123,5 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
+	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 </Library>

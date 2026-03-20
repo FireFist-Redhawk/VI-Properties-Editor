@@ -27,6 +27,8 @@
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
+		<Item Name="Replace Column.ctl" Type="VI" URL="../CTLs/Replace Column.ctl"/>
+		<Item Name="Replace Info.ctl" Type="VI" URL="../CTLs/Replace Info.ctl"/>
 		<Item Name="Sort Column.ctl" Type="VI" URL="../CTLs/Sort Column.ctl"/>
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
 		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
@@ -67,6 +69,7 @@
 		<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
+		<Item Name="Find and Replace Items.vi" Type="VI" URL="../SubVIs/Find and Replace Items.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
 		<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
@@ -109,6 +112,7 @@
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Support" Type="Folder">
 			<Item Name="Defer Panel Updates.vi" Type="VI" URL="../Classes/Support/Defer Panel Updates.vi"/>
+			<Item Name="Filter Item Low Level.vi" Type="VI" URL="../Classes/Support/Filter Item Low Level.vi"/>
 			<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Support/Initialize Item.vi"/>
 			<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Support/Item Type.ctl"/>
 		</Item>

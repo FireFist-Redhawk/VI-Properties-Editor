@@ -116,6 +116,7 @@
 			<Item Name="Filter Item Low Level.vi" Type="VI" URL="../Classes/Support/Filter Item Low Level.vi"/>
 			<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Support/Initialize Item.vi"/>
 			<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Support/Item Type.ctl"/>
+			<Item Name="Traverse FP for Control Refs.vi" Type="VI" URL="../Classes/Support/Traverse FP for Control Refs.vi"/>
 		</Item>
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Classes/Control/Control.lvclass"/>
 		<Item Name="Item.lvclass" Type="LVClass" URL="../Classes/Item/Item.lvclass"/>

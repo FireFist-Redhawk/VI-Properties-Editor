@@ -17,6 +17,7 @@
 	<Item Name="CTLs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
 		<Item Name="Column Name.ctl" Type="VI" URL="../CTLs/Column Name.ctl"/>
 		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>

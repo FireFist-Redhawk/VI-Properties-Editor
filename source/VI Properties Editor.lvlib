@@ -36,77 +36,93 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
-		<Item Name="Support for FaKI State Machine" Type="Folder">
-			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Build Error Message.vi"/>
-			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Enqueue Multiple States.vi"/>
-			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Parse Element.vi"/>
-			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
+		<Item Name="Bold Formatting" Type="Folder">
+			<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
+			<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
+			<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
+			<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
+			<Item Name="Remove Bold Tags.vi" Type="VI" URL="../SubVIs/Remove Bold Tags.vi"/>
+			<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>
+			<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
 		</Item>
-		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
-		<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
-		<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
-		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
-		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
-		<Item Name="Add Descendent Items.vi" Type="VI" URL="../SubVIs/Add Descendent Items.vi"/>
-		<Item Name="Add Folder Item.vi" Type="VI" URL="../SubVIs/Add Folder Item.vi"/>
-		<Item Name="Add Top-Level Item.vi" Type="VI" URL="../SubVIs/Add Top-Level Item.vi"/>
-		<Item Name="Adjust Text Selection.vi" Type="VI" URL="../SubVIs/Adjust Text Selection.vi"/>
-		<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
-		<Item Name="Bold Description String.vi" Type="VI" URL="../SubVIs/Bold Description String.vi"/>
-		<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
-		<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
-		<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
-		<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
-		<Item Name="Convert Filter INI String to Cluster.vi" Type="VI" URL="../SubVIs/Convert Filter INI String to Cluster.vi"/>
-		<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
-		<Item Name="Convert Filter to INI String.vi" Type="VI" URL="../SubVIs/Convert Filter to INI String.vi"/>
-		<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
-		<Item Name="Convert String Array to INI Value.vi" Type="VI" URL="../SubVIs/Convert String Array to INI Value.vi"/>
-		<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
-		<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
-		<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
-		<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
-		<Item Name="FaKI State Machine.vi" Type="VI" URL="../SubVIs/FaKI State Machine.vi"/>
-		<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
-		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
-		<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
-		<Item Name="Find and Replace Items.vi" Type="VI" URL="../SubVIs/Find and Replace Items.vi"/>
-		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
-		<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
-		<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
-		<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
-		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
-		<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
-		<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
-		<Item Name="Get All Items.vi" Type="VI" URL="../SubVIs/Get All Items.vi"/>
-		<Item Name="Get Folder Items.vi" Type="VI" URL="../SubVIs/Get Folder Items.vi"/>
-		<Item Name="Get Items Data.vi" Type="VI" URL="../SubVIs/Get Items Data.vi"/>
-		<Item Name="Get Library Items.vi" Type="VI" URL="../SubVIs/Get Library Items.vi"/>
-		<Item Name="Get Project Items.vi" Type="VI" URL="../SubVIs/Get Project Items.vi"/>
-		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
-		<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
-		<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
-		<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
-		<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../SubVIs/Parse Elements Treewise.vi"/>
-		<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
-		<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
-		<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
-		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
-		<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
-		<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
-		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
-		<Item Name="Remove Bold Tags.vi" Type="VI" URL="../SubVIs/Remove Bold Tags.vi"/>
-		<Item Name="Replace Formatting with Tags.vi" Type="VI" URL="../SubVIs/Replace Formatting with Tags.vi"/>
-		<Item Name="Reset Plain Formatting.vi" Type="VI" URL="../SubVIs/Reset Plain Formatting.vi"/>
-		<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
-		<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
-		<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
-		<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
-		<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
-		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
-		<Item Name="Uncheck Submenu Items.vi" Type="VI" URL="../SubVIs/Uncheck Submenu Items.vi"/>
-		<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
-		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
+		<Item Name="Configuration" Type="Folder">
+			<Item Name="Convert Filter INI String to Cluster.vi" Type="VI" URL="../SubVIs/Convert Filter INI String to Cluster.vi"/>
+			<Item Name="Convert Filter to INI String.vi" Type="VI" URL="../SubVIs/Convert Filter to INI String.vi"/>
+			<Item Name="Convert String Array to INI Value.vi" Type="VI" URL="../SubVIs/Convert String Array to INI Value.vi"/>
+			<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
+			<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
+		</Item>
+		<Item Name="Constants" Type="Folder">
+			<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
+			<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
+			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+		</Item>
+		<Item Name="Data Utility" Type="Folder">
+			<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
+			<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
+			<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
+			<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
+			<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
+			<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
+			<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
+			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
+		</Item>
+		<Item Name="FaKI State Machine" Type="Folder">
+			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Build Error Message.vi"/>
+			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Enqueue Multiple States.vi"/>
+			<Item Name="FaKI State Machine.vit" Type="VI" URL="../SubVIs/FaKI State Machine.vit"/>
+			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Parse Element.vi"/>
+			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Producer Loop Guard Clause.vi"/>
+		</Item>
+		<Item Name="Item Data" Type="Folder">
+			<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
+			<Item Name="Add Descendent Items.vi" Type="VI" URL="../SubVIs/Add Descendent Items.vi"/>
+			<Item Name="Add Folder Item.vi" Type="VI" URL="../SubVIs/Add Folder Item.vi"/>
+			<Item Name="Add Top-Level Item.vi" Type="VI" URL="../SubVIs/Add Top-Level Item.vi"/>
+			<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
+			<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
+			<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
+			<Item Name="Find and Replace Items.vi" Type="VI" URL="../SubVIs/Find and Replace Items.vi"/>
+			<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
+			<Item Name="Get All Items.vi" Type="VI" URL="../SubVIs/Get All Items.vi"/>
+			<Item Name="Get Folder Items.vi" Type="VI" URL="../SubVIs/Get Folder Items.vi"/>
+			<Item Name="Get Items Data.vi" Type="VI" URL="../SubVIs/Get Items Data.vi"/>
+			<Item Name="Get Library Items.vi" Type="VI" URL="../SubVIs/Get Library Items.vi"/>
+			<Item Name="Get Project Items.vi" Type="VI" URL="../SubVIs/Get Project Items.vi"/>
+			<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../SubVIs/Parse Elements Treewise.vi"/>
+			<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
+			<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
+			<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
+			<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
+			<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
+			<Item Name="Set VI Properties.vi" Type="VI" URL="../SubVIs/Set VI Properties.vi"/>
+		</Item>
+		<Item Name="Menuing" Type="Folder">
+			<Item Name="Initialize Menu Items.vi" Type="VI" URL="../SubVIs/Initialize Menu Items.vi"/>
+			<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
+			<Item Name="Uncheck Submenu Items.vi" Type="VI" URL="../SubVIs/Uncheck Submenu Items.vi"/>
+		</Item>
+		<Item Name="UI Utility" Type="Folder">
+			<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+			<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
+			<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
+			<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
+			<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
+			<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
+			<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
+			<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
+			<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
+			<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
+			<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
+			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+		</Item>
+		<Item Name="User-Facing" Type="Folder">
+			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
+			<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
+			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
+			<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
+			<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Classes" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>

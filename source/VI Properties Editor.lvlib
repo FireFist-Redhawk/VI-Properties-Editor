@@ -116,6 +116,7 @@
 			<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
 			<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+			<Item Name="Update Loading String.vi" Type="VI" URL="../SubVIs/Update Loading String.vi"/>
 		</Item>
 		<Item Name="User-Facing" Type="Folder">
 			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>

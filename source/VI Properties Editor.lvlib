@@ -43,6 +43,7 @@
 			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 		</Item>
 		<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+		<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
 		<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
 		<Item Name="Add Bold Tags.vi" Type="VI" URL="../SubVIs/Add Bold Tags.vi"/>
 		<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
@@ -123,5 +124,4 @@
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>
-	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 </Library>

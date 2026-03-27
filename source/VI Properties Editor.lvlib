@@ -24,7 +24,6 @@
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
-		<Item Name="Items Map Value.ctl" Type="VI" URL="../CTLs/Items Map Value.ctl"/>
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>

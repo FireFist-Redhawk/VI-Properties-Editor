@@ -18,10 +18,10 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
-		<Item Name="Column Name.ctl" Type="VI" URL="../CTLs/Column Name.ctl"/>
 		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
+		<Item Name="Filter Column.ctl" Type="VI" URL="../CTLs/Filter Column.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>

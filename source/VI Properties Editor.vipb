@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-25 18:45:17" Creator="Elmar Schneider" Comments="" ID="285df65f13ffd268ea8e3faadea66bf9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-03-29 01:47:08" Creator="Elmar Schneider" Comments="" ID="c39a00b72a89bef8f81fbb962e2441c5">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.0.0.43</Library_Version>
+    <Library_Version>2.0.0.48</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -60,11 +60,22 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
-      <Release_Notes>- Added Help URL and Help Type as VI properties that can be modified. (#26)
-- Added Caption as a control property that can be modified. (#17)
-- Added indicators for most Execution properties of VIs (Auto Error Handling, Allow Debugging, Reentrancy Type, etc.). (#13)
-- Centered all dialogs on the main window. (#14)
-- Changed the background color of columns in the Controls table that cannot be modified. (#15)</Release_Notes>
+      <Release_Notes>- Changed the list of source items from a listbox to a tree with a hierarchical view, and added an option to show the items in a flat view. (#23)
+- Added "Find and Replace" functionality that allows the user to update the properties of many VIs in a single action. (#19)
+- Added an &lt;b&gt;Edit Icon&lt;/b&gt; button that opens the Icon Editor dialog box prepopulated with the current VI's icon. (#25)
+- Added support for `.ctl` and `.ctt` files. (#40)
+- Changed control scanning routine to scan for nested controls, and added an option to show only top-level controls. (#43)
+- Added a "case-sensitive" filter option. Previously, all filters were case-sensitive due to the filtering logic. (#45)
+- Added user feedback for the current progress of the source-scanning operation.
+- If the current VI is a type that doesn't have a connector pane, its VI icon will now be displayed in the &lt;b&gt;VI Connector Pane&lt;/b&gt; indicator instead.
+- Added an indicator to display the current VI's type (Standard, Polymorphic, Control, etc.).
+- Added the ability to filter by control properties.
+- Added a &lt;b&gt;Help&lt;/b&gt; menu, and added an About dialog box that can be accessed through it.
+- Fixed an issue where, if a VI was saved, captions would get added to every control, regardless of whether they had a caption before or not. (#46)
+- Fixed an issue where opening a VI by double-clicking the VI in the list would not open the template (if a `.vit` file was selected) or prompt the user to save the VI (if it was edited). (#44)
+- Fixed an issue where, after choosing a recent filter, the recent filter menu items no longer functioned as intended. (#41)
+- Fixed an issue where the `is not empty` filter type did not function as intended. (#42)
+- Fixed an issue where control properties were not being saved for Global VI types.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

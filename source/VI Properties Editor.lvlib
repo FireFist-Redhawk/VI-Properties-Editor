@@ -59,6 +59,7 @@
 		</Item>
 		<Item Name="Data Utility" Type="Folder">
 			<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
+			<Item Name="Check Data Source.vi" Type="VI" URL="../SubVIs/Check Data Source.vi"/>
 			<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 			<Item Name="Filter Paths.vi" Type="VI" URL="../SubVIs/Filter Paths.vi"/>
 			<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
@@ -108,6 +109,7 @@
 			<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
 			<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
 			<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
+			<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
 			<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
 			<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 			<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>

@@ -6,6 +6,7 @@ VI Properties Editor is a free, open-source utility that allows the user to mass
 - View VI Description formatted so that bold tags become bold text
 - Ctrl-B shortcut to add bold tags to VI Description, Ctrl-Shift-B to remove nearest tags
 - View all controls or only controls on the connector pane
+- Perform mass replacements on various properties
 - Copy a VI's properties to all other VIs with the same name
 - Add or edit copyright info for all VIs or one-by-one
 - Filter and sort VIs by custom filters which can leverage regular expressions

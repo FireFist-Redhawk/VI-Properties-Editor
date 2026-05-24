@@ -20,6 +20,7 @@ VI Properties Editor is a free, open-source utility that allows the user to mass
 - Window Title
 - Same as VI name?
 - VI Description
+- VI Icon
 - Help Path
 - Help Tag
 - Control names (labels)

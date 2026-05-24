@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-05-24 13:55:37" Creator="Elmar Schneider" Comments="" ID="4440182d889a0163ac549e474a85167d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-05-24 14:03:44" Creator="Elmar Schneider" Comments="" ID="ec5940459ae3a762a81982fe664f3862">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.1.0.53</Library_Version>
+    <Library_Version>2.1.0.54</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -48,6 +48,7 @@
 - Window Title
 - Same as VI name?
 - VI Description
+- VI Icon
 - Help Path
 - Help Tag
 - Help URL

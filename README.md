@@ -1,5 +1,7 @@
 # VI Properties Editor
 
+[![Image](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/badge.svg?metric=installs)](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/) [![Image](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/badge.svg?metric=stars)](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/)
+
 VI Properties Editor is a free, open-source utility that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. After installing, it can be found in <b>Tools > Redhawk > VI Properties Editor</b>.
 
 <b>Features of VI Properties Editor:</b>

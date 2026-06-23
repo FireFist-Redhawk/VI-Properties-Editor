@@ -111,6 +111,7 @@
 			<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
 			<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
 			<Item Name="Format Execution System String.vi" Type="VI" URL="../SubVIs/Format Execution System String.vi"/>
+			<Item Name="Format Header Columns.vi" Type="VI" URL="../SubVIs/Format Header Columns.vi"/>
 			<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 			<Item Name="Format Priority String.vi" Type="VI" URL="../SubVIs/Format Priority String.vi"/>
 			<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>

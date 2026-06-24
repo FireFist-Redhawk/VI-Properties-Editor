@@ -105,6 +105,7 @@
 		<Item Name="UI Utility" Type="Folder">
 			<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
 			<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
+			<Item Name="Check for Valid Header Click.vi" Type="VI" URL="../SubVIs/Check for Valid Header Click.vi"/>
 			<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
 			<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
 			<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>

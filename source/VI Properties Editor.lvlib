@@ -60,6 +60,8 @@
 		<Item Name="Data Utility" Type="Folder">
 			<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 			<Item Name="Check Data Source.vi" Type="VI" URL="../SubVIs/Check Data Source.vi"/>
+			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
+			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 			<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 			<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>

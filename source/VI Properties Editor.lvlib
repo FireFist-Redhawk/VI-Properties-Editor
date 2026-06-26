@@ -135,6 +135,7 @@
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Support" Type="Folder">
 			<Item Name="Defer Panel Updates.vi" Type="VI" URL="../Classes/Support/Defer Panel Updates.vi"/>
+			<Item Name="Display Item Image.vi" Type="VI" URL="../Classes/Support/Display Item Image.vi"/>
 			<Item Name="Filter Item Low Level.vi" Type="VI" URL="../Classes/Support/Filter Item Low Level.vi"/>
 			<Item Name="Initialize Item.vi" Type="VI" URL="../Classes/Support/Initialize Item.vi"/>
 			<Item Name="Item Type.ctl" Type="VI" URL="../Classes/Support/Item Type.ctl"/>

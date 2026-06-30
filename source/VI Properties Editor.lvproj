@@ -17,7 +17,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="VI Properties Editor.lvlib" Type="Library" URL="../VI Properties Editor.lvlib"/>
 		<Item Name="Tests VI Properties Editor.lvproj" Type="Document" URL="../../tests/Tests VI Properties Editor.lvproj"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Property Name="NI.SortType" Type="Int">0</Property>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

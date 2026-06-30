@@ -126,7 +126,6 @@
 			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
 			<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
-			<Item Name="Loading Dialog.lvclass" Type="LVClass" URL="../SubVIs/Loading Dialog/Loading Dialog.lvclass"/>
 			<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
 			<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
 		</Item>
@@ -144,6 +143,7 @@
 		</Item>
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Classes/Control/Control.lvclass"/>
 		<Item Name="Item.lvclass" Type="LVClass" URL="../Classes/Item/Item.lvclass"/>
+		<Item Name="Loading Dialog.lvclass" Type="LVClass" URL="../Classes/Loading Dialog/Loading Dialog.lvclass"/>
 		<Item Name="Project Tree Map.lvclass" Type="LVClass" URL="../Classes/Tree Map/Project Tree Map.lvclass"/>
 		<Item Name="VI.lvclass" Type="LVClass" URL="../Classes/VI/VI.lvclass"/>
 	</Item>

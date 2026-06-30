@@ -126,6 +126,7 @@
 			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
 			<Item Name="Confirmation Dialog.vi" Type="VI" URL="../SubVIs/Confirmation Dialog.vi"/>
 			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
+			<Item Name="Loading Dialog.lvclass" Type="LVClass" URL="../SubVIs/Loading Dialog/Loading Dialog.lvclass"/>
 			<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
 			<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
 		</Item>

@@ -81,6 +81,7 @@
 			<Item Name="Add Descendent Items.vi" Type="VI" URL="../SubVIs/Add Descendent Items.vi"/>
 			<Item Name="Add Folder Item.vi" Type="VI" URL="../SubVIs/Add Folder Item.vi"/>
 			<Item Name="Add Top-Level Item.vi" Type="VI" URL="../SubVIs/Add Top-Level Item.vi"/>
+			<Item Name="Check Items for Modifications.vi" Type="VI" URL="../SubVIs/Check Items for Modifications.vi"/>
 			<Item Name="Convert Controls to Arrays.vi" Type="VI" URL="../SubVIs/Convert Controls to Arrays.vi"/>
 			<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
 			<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>

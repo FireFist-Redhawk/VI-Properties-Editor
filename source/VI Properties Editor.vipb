@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-06-23 18:39:16" Creator="Elmar Schneider" Comments="" ID="f121c376eea21c51fe2acf5696b130b6">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-07-03 13:57:58" Creator="Elmar Schneider" Comments="" ID="1a68ca0b91680980a3e184f094db5295">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.1.0.54</Library_Version>
+    <Library_Version>2.2.0.54</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -62,11 +62,14 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
-      <Release_Notes>- Added the &lt;b&gt;File &gt; Reload Source&lt;/b&gt; menu item, which reloads source data without discarding the changes made to the source in the editor. (#33)
-- Added a &lt;b&gt;View Saved Value&lt;/b&gt; button to toggle the saved value in order to see what changes have been made. (#49)
-- Added an option to sort by filename. (#48)
-- Added the &lt;b&gt;Control Index&lt;/b&gt; property to the &lt;b&gt;Controls&lt;/b&gt; table. (#28)
-- Fixed an issue where subpanel controls and possibly other control types were not included in the &lt;b&gt;Controls&lt;/b&gt; table.</Release_Notes>
+      <Release_Notes>- Added sort functionality to the &lt;b&gt;Controls&lt;/b&gt; table. Column headers can now be double-clicked to sort by the clicked column. (#51)
+- Added a custom Loading dialog box that gets displayed during the item-loading process. It has a &lt;b&gt;Cancel&lt;/b&gt; button, so the user is now able to cancel the loading process. (#53)
+- When displaying connector pane images, the scrollbars of the &lt;b&gt;VI Connector Pane&lt;/&gt; picture are now dynamically shown in the event that the connector pane image cannot fit within the bounds of the indicator. (#52)
+- Added an extra flag when opening VI references to prevent LabVIEW from displaying the default loading dialog box when searching for missing subVIs of the referenced VI. (#55)
+- Changed the layout of the Options dialog box to a tab-based layout to allow for future expansion.
+- Added an option for the Copyright delimiter that is added between the VI description and copyright text when adding copyright to VIs. (#16)
+- Added an option for the Copyright path. This was previously editable within the tool's INI file, but now there is a control for it on the Options dialog box.
+- Fixed an issue where, in Hierarchy view, the names of items within a class or library were not being prepended with an exclamation point to indicate that they had unsaved modifications. (#54)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

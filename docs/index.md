@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_order: 1
+nav_order: l0s001
 toc: false
 ---
 
@@ -9,23 +9,23 @@ toc: false
 
 [![Image](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/badge.svg?metric=installs)](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/) [![Image](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/badge.svg?metric=stars)](https://www.vipm.io/package/redhawk_lib_vi_properties_editor/)
 
-VI Properties Editor is a LabVIEW tool that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. It began with a simple desire to be able to press <kbd>Ctrl+B</kbd> to add `<b>` tags when editing VI documentation.
+VI Properties Editor is a LabVIEW tool that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. It began with a simple desire to be able to press <kbd>Ctrl+B</kbd> to add bold tags when editing VI documentation.
 
 ![Image](assets/images/vi-properties-editor-main.png)
 
 ## Features
 
+- Press <kbd>Ctrl+B</kbd> to add bold tags to VI Description; press <kbd>Ctrl+Shift+B</kbd> to remove nearest tags
 - View VI Description formatted so that bold tags become bold text
-- Ctrl-B shortcut to add bold tags to VI Description, Ctrl-Shift-B to remove nearest tags
 - View all controls or only controls on the connector pane
 - Perform mass replacements on various properties
 - Copy a VI's properties to all other VIs with the same name
 - Add or edit copyright info for all VIs or one-by-one
-- Filter and sort VIs by custom filters which can leverage regular expressions
+- Filter and sort VIs by custom filters that can leverage regular expressions
 - Filter on saved data or edited data
-- History of last 10 folders selected kept in Recent Folders
-- History of last 10 projects/libaries/classes selected kept in Recent Files
-- History of last 10 custom filters used kept in Recent Filters
+- History of last 10 folders selected kept in <b>File &rarr; Recent Folders</b>
+- History of last 10 projects/libaries/classes selected kept in <b>File &rarr; Recent Files</b>
+- History of last 10 custom filters used kept in <b>View &rarr; Recent Filters</b>
 - Optional confirmation dialogs for various high-risk actions
 
 <b>Properties of VIs that can be edited:</b>
@@ -39,7 +39,6 @@ VI Properties Editor is a LabVIEW tool that allows the user to mass edit VI prop
 - Control names (labels)
 - Control descriptions
 - Control tip strips
-
 
 ## Requirements
 

@@ -4,7 +4,7 @@
 
 VI Properties Editor is a LabVIEW tool that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. It began with a simple desire to be able to press <kbd>Ctrl+B</kbd> to add bold tags when editing VI documentation.
 
-![Image](assets/images/vi-properties-editor-main.png)
+![Image](docs/assets/images/vi-properties-editor-main.png)
 
 ## Features
 

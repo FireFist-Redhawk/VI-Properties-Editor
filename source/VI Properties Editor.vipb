@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-07-03 15:39:26" Creator="Elmar Schneider" Comments="" ID="a79e9d33e1262fe1ad11e2b0ff485afa">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-08-31 18:42:20" Creator="Elmar Schneider" Comments="" ID="72a0b02cbf6b7c7fe540ded606cdee3c">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
     <Library_Version>2.2.0.58</Library_Version>
@@ -30,9 +30,9 @@
       <One_Line_Description_Summary>Utility for mass editing properties and documentation of VIs and their individual controls</One_Line_Description_Summary>
       <Description>VI Properties Editor is a free, open-source utility that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. After installing, it can be found in &lt;b&gt;Tools &gt; Redhawk &gt; VI Properties Editor&lt;/b&gt;.
 
-&lt;b&gt;Features of VI Properties Editor:&lt;/b&gt;
+&lt;b&gt;Features:&lt;/b&gt;
+- Press &lt;font=Consolas&gt;Ctrl+B&lt;/font&gt; to add bold tags to VI Description; press &lt;font=Consolas&gt;Ctrl+Shift+B&lt;/font&gt; to remove nearest tags
 - View VI Description formatted so that bold tags become bold text
-- Ctrl-B shortcut to add bold tags to VI Description, Ctrl-Shift-B to remove nearest tags
 - View all controls or only controls on the connector pane
 - Perform mass replacements on various properties
 - Copy a VI's properties to all other VIs with the same name

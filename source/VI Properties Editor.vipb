@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-08-31 18:42:20" Creator="Elmar Schneider" Comments="" ID="72a0b02cbf6b7c7fe540ded606cdee3c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-08-31 20:20:09" Creator="Elmar Schneider" Comments="" ID="7da9da2cb5d1d837e8a35cdda8ef21f5">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.2.0.58</Library_Version>
+    <Library_Version>2.3.0.58</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -62,14 +62,11 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
-      <Release_Notes>- Added sort functionality to the &lt;b&gt;Controls&lt;/b&gt; table. Column headers can now be clicked to sort by the clicked column. (#51)
-- Added a custom Loading dialog box that gets displayed during the item-loading process. It has a &lt;b&gt;Cancel&lt;/b&gt; button, so the user is now able to cancel the loading process. (#53)
-- When displaying connector pane images, the scrollbars of the &lt;b&gt;VI Connector Pane&lt;/b&gt; picture are now dynamically shown in the event that the connector pane image cannot fit within the bounds of the indicator. (#52)
-- Added an extra flag when opening VI references to prevent LabVIEW from displaying the default loading dialog box when searching for missing subVIs of the referenced VI. (#55)
-- Changed the layout of the Options dialog box to a tab-based layout to allow for future expansion.
-- Added an option for the Copyright delimiter that is added between the VI description and copyright text when adding copyright to VIs. (#16)
-- Added an option for the Copyright path. This was previously editable within the tool's INI file, but now there is a control for it on the Options dialog box.
-- Fixed an issue where, in Hierarchy view, the names of items within a class or library were not being prepended with an exclamation point to indicate that they had unsaved modifications. (#54)</Release_Notes>
+      <Release_Notes>- Added the Help &gt; Help menu item, which opens a GitHub Pages site that contains documentation for the tool. (#60)
+- Fixed an issue where LabVIEW classes and libraries would sometimes stay in memory in the NI.LV.Dialog application instance after loading and saving. (#57)
+- Fixed an issue where VI icons would get saved with incorrect template visibility and opacity values. (#58)
+
+Note: due to the underlying bug in the LabVIEW Icon API that causes #58 to happen, a design decision was made to disallow editing of template information in the tool.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

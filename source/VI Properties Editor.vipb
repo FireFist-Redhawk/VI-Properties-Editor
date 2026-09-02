@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-08-31 20:20:09" Creator="Elmar Schneider" Comments="" ID="7da9da2cb5d1d837e8a35cdda8ef21f5">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-09-01 22:43:46" Creator="Elmar Schneider" Comments="" ID="cc86c671eb2eab4295cd9ba99fd55649">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.3.0.58</Library_Version>
+    <Library_Version>2.3.0.59</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -64,9 +64,9 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
       <Release_Notes>- Added the Help &gt; Help menu item, which opens a GitHub Pages site that contains documentation for the tool. (#60)
 - Fixed an issue where LabVIEW classes and libraries would sometimes stay in memory in the NI.LV.Dialog application instance after loading and saving. (#57)
-- Fixed an issue where VI icons would get saved with incorrect template visibility and opacity values. (#58)
+- Fixed an issue where VI icons would get saved with incorrect template information. (#58)
 
-Note: due to the underlying bug in the LabVIEW Icon API that causes #58 to happen, a design decision was made to disallow editing of template information in the tool.</Release_Notes>
+Note: due to the underlying bug in the LabVIEW Icon API that causes #58 to happen, a design decision was made to disallow editing of VI icon template information in the tool. This includes the VI icon template, the template opacity, and the template visibility.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

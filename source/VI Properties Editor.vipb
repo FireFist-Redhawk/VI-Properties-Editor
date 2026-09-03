@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-09-01 22:43:46" Creator="Elmar Schneider" Comments="" ID="cc86c671eb2eab4295cd9ba99fd55649">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-09-02 21:08:50" Creator="Elmar Schneider" Comments="" ID="e0d056133b62a49953369888854d781d">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.3.0.59</Library_Version>
+    <Library_Version>2.3.0.62</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -27,8 +27,8 @@
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>VI Properties Editor.vipc</VI_Package_Configuration_File>
     <Description>
-      <One_Line_Description_Summary>Utility for mass editing properties and documentation of VIs and their individual controls</One_Line_Description_Summary>
-      <Description>VI Properties Editor is a free, open-source utility that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. After installing, it can be found in &lt;b&gt;Tools &gt; Redhawk &gt; VI Properties Editor&lt;/b&gt;.
+      <One_Line_Description_Summary>Tool for mass editing properties and documentation of VIs and their individual controls</One_Line_Description_Summary>
+      <Description>VI Properties Editor is a tool that allows the user to mass edit VI properties and documentation by loading a folder, project, library, or class. It began with a simple desire to be able to press &lt;font=Consolas&gt;Ctrl+B&lt;/font&gt; to add bold tags when editing VI documentation. After installing, it can be found in &lt;b&gt;Tools &gt; Redhawk &gt; VI Properties Editor&lt;/b&gt;.
 
 &lt;b&gt;Features:&lt;/b&gt;
 - Press &lt;font=Consolas&gt;Ctrl+B&lt;/font&gt; to add bold tags to VI Description; press &lt;font=Consolas&gt;Ctrl+Shift+B&lt;/font&gt; to remove nearest tags
@@ -65,6 +65,7 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Release_Notes>- Added the Help &gt; Help menu item, which opens a GitHub Pages site that contains documentation for the tool. (#60)
 - Fixed an issue where LabVIEW classes and libraries would sometimes stay in memory in the NI.LV.Dialog application instance after loading and saving. (#57)
 - Fixed an issue where VI icons would get saved with incorrect template information. (#58)
+- Fixed an issue where the UI would not transition correctly after changing the Help Type. (#61)
 
 Note: due to the underlying bug in the LabVIEW Icon API that causes #58 to happen, a design decision was made to disallow editing of VI icon template information in the tool. This includes the VI icon template, the template opacity, and the template visibility.</Release_Notes>
     </Description>

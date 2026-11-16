@@ -41,6 +41,7 @@
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
+		<Item Name="Reentrancy.ctl" Type="VI" URL="../CTLs/Reentrancy.ctl"/>
 		<Item Name="Replace Column.ctl" Type="VI" URL="../CTLs/Replace Column.ctl"/>
 		<Item Name="Replace Info.ctl" Type="VI" URL="../CTLs/Replace Info.ctl"/>
 		<Item Name="Sort Column.ctl" Type="VI" URL="../CTLs/Sort Column.ctl"/>

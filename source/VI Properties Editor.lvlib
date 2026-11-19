@@ -84,13 +84,6 @@
 			<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
 			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
 		</Item>
-		<Item Name="FaKI State Machine" Type="Folder">
-			<Item Name="Build Error Message.vi" Type="VI" URL="../SubVIs/Build Error Message.vi"/>
-			<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../SubVIs/Enqueue Multiple States.vi"/>
-			<Item Name="FaKI State Machine.vit" Type="VI" URL="../SubVIs/FaKI State Machine.vit"/>
-			<Item Name="Parse Element.vi" Type="VI" URL="../SubVIs/Parse Element.vi"/>
-			<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../SubVIs/Producer Loop Guard Clause.vi"/>
-		</Item>
 		<Item Name="Item Data" Type="Folder">
 			<Item Name="Add Copyright.vi" Type="VI" URL="../SubVIs/Add Copyright.vi"/>
 			<Item Name="Add Descendent Items.vi" Type="VI" URL="../SubVIs/Add Descendent Items.vi"/>
@@ -144,6 +137,8 @@
 			<Item Name="Prompt for Custom Filter.vi" Type="VI" URL="../SubVIs/Prompt for Custom Filter.vi"/>
 			<Item Name="Prompt for Replacement.vi" Type="VI" URL="../SubVIs/Prompt for Replacement.vi"/>
 		</Item>
+		<Item Name="Custom Errors.lvlib" Type="Library" URL="../SubVIs/Custom Errors/Custom Errors.lvlib"/>
+		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
 	</Item>
 	<Item Name="VI Properties Editor.rtm" Type="Document" URL="../VI Properties Editor.rtm"/>
 	<Item Name="VI Properties Editor.vi" Type="VI" URL="../VI Properties Editor.vi"/>

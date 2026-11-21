@@ -70,6 +70,7 @@
 			<Item Name="Access Scope Glyphs--constant.vi" Type="VI" URL="../SubVIs/Access Scope Glyphs--constant.vi"/>
 			<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+			<Item Name="Supported Item Types--constant.vi" Type="VI" URL="../SubVIs/Supported Item Types--constant.vi"/>
 		</Item>
 		<Item Name="Data Utility" Type="Folder">
 			<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>

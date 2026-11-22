@@ -75,12 +75,14 @@
 		<Item Name="Data Utility" Type="Folder">
 			<Item Name="Append Copyright to Description.vi" Type="VI" URL="../SubVIs/Append Copyright to Description.vi"/>
 			<Item Name="Check Data Source.vi" Type="VI" URL="../SubVIs/Check Data Source.vi"/>
+			<Item Name="Check Replacement Map.vi" Type="VI" URL="../SubVIs/Check Replacement Map.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Create Icon Layer New.vi" Type="VI" URL="../SubVIs/Create Icon Layer New.vi"/>
 			<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 			<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 			<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
+			<Item Name="Insert Into Replacement Map.vi" Type="VI" URL="../SubVIs/Insert Into Replacement Map.vi"/>
 			<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
 			<Item Name="Open Project if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Project if Not in Memory.vi"/>
 			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
@@ -120,6 +122,7 @@
 			<Item Name="Check for Valid Header Click.vi" Type="VI" URL="../SubVIs/Check for Valid Header Click.vi"/>
 			<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
 			<Item Name="Convert Item Count to Number String.vi" Type="VI" URL="../SubVIs/Convert Item Count to Number String.vi"/>
+			<Item Name="Convert Replace Column to Options.vi" Type="VI" URL="../SubVIs/Convert Replace Column to Options.vi"/>
 			<Item Name="Display Confirmation to User.vi" Type="VI" URL="../SubVIs/Display Confirmation to User.vi"/>
 			<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
 			<Item Name="Format Current Source String.vi" Type="VI" URL="../SubVIs/Format Current Source String.vi"/>

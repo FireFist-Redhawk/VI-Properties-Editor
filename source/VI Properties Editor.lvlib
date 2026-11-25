@@ -117,7 +117,7 @@
 			<Item Name="Uncheck Submenu Items.vi" Type="VI" URL="../SubVIs/Uncheck Submenu Items.vi"/>
 		</Item>
 		<Item Name="UI Utility" Type="Folder">
-			<Item Name="Abbreviate Classes in Library.vi" Type="VI" URL="../SubVIs/Abbreviate Classes in Library.vi"/>
+			<Item Name="Abbreviate Item Name.vi" Type="VI" URL="../SubVIs/Abbreviate Item Name.vi"/>
 			<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
 			<Item Name="Check for Valid Header Click.vi" Type="VI" URL="../SubVIs/Check for Valid Header Click.vi"/>
 			<Item Name="Convert Filter to Display String.vi" Type="VI" URL="../SubVIs/Convert Filter to Display String.vi"/>
@@ -129,9 +129,10 @@
 			<Item Name="Format Header Columns.vi" Type="VI" URL="../SubVIs/Format Header Columns.vi"/>
 			<Item Name="Format Help Path String.vi" Type="VI" URL="../SubVIs/Format Help Path String.vi"/>
 			<Item Name="Format Reentrancy String.vi" Type="VI" URL="../SubVIs/Format Reentrancy String.vi"/>
-			<Item Name="Prepend Name if Modified.vi" Type="VI" URL="../SubVIs/Prepend Name if Modified.vi"/>
+			<Item Name="Prepend Text to Item Name.vi" Type="VI" URL="../SubVIs/Prepend Text to Item Name.vi"/>
 			<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+			<Item Name="Unqualify Item Name.vi" Type="VI" URL="../SubVIs/Unqualify Item Name.vi"/>
 			<Item Name="Update Loading String.vi" Type="VI" URL="../SubVIs/Update Loading String.vi"/>
 		</Item>
 		<Item Name="User-Facing" Type="Folder">

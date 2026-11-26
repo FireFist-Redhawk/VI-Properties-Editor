@@ -9,4 +9,5 @@
 
 </Property>
 	<Item Name="5000 Unhandled String Argument.vi" Type="VI" URL="../5000 Unhandled String Argument.vi"/>
+	<Item Name="5001 Mismatch Parameter Count.vi" Type="VI" URL="../5001 Mismatch Parameter Count.vi"/>
 </Library>

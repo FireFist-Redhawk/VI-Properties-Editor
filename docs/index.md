@@ -38,6 +38,14 @@ VI Properties Editor is a LabVIEW tool that allows the user to mass edit VI prop
 - Help Tag
 - Help URL
 - Help Type
+- Inlined?
+- Allow Debugging?
+- Automatic Error Handling?
+- Run When Opened?
+- Suspend When Called?
+- Reentrancy
+- Priority
+- Preferred Execution System
 - Control names (labels)
 - Control captions
 - Control descriptions

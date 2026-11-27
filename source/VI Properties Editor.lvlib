@@ -96,6 +96,7 @@
 			<Item Name="Copy to Matching Items.vi" Type="VI" URL="../SubVIs/Copy to Matching Items.vi"/>
 			<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
 			<Item Name="Find and Replace Items.vi" Type="VI" URL="../SubVIs/Find and Replace Items.vi"/>
+			<Item Name="Fix Item IDs.vi" Type="VI" URL="../SubVIs/Fix Item IDs.vi"/>
 			<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 			<Item Name="Get All Items.vi" Type="VI" URL="../SubVIs/Get All Items.vi"/>
 			<Item Name="Get Folder Items.vi" Type="VI" URL="../SubVIs/Get Folder Items.vi"/>

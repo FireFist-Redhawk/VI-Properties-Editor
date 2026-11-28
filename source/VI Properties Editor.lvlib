@@ -46,7 +46,6 @@
 		<Item Name="Replace Info.ctl" Type="VI" URL="../CTLs/Replace Info.ctl"/>
 		<Item Name="Sort Column.ctl" Type="VI" URL="../CTLs/Sort Column.ctl"/>
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
-		<Item Name="XPath Get Attribute.ctl" Type="VI" URL="../CTLs/XPath Get Attribute.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -80,7 +79,6 @@
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Create Icon Layer New.vi" Type="VI" URL="../SubVIs/Create Icon Layer New.vi"/>
 			<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
-			<Item Name="Find Nodes Attribute.vi" Type="VI" URL="../SubVIs/Find Nodes Attribute.vi"/>
 			<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
 			<Item Name="Insert Into Replacement Map.vi" Type="VI" URL="../SubVIs/Insert Into Replacement Map.vi"/>
 			<Item Name="Open Library if Not in Memory.vi" Type="VI" URL="../SubVIs/Open Library if Not in Memory.vi"/>
@@ -103,9 +101,6 @@
 			<Item Name="Get Items Data.vi" Type="VI" URL="../SubVIs/Get Items Data.vi"/>
 			<Item Name="Get Library Items.vi" Type="VI" URL="../SubVIs/Get Library Items.vi"/>
 			<Item Name="Get Project Items.vi" Type="VI" URL="../SubVIs/Get Project Items.vi"/>
-			<Item Name="Parse Elements Treewise.vi" Type="VI" URL="../SubVIs/Parse Elements Treewise.vi"/>
-			<Item Name="Parse Xml Node Recursively from File.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively from File.vi"/>
-			<Item Name="Parse Xml Node Recursively.vi" Type="VI" URL="../SubVIs/Parse Xml Node Recursively.vi"/>
 			<Item Name="Save All VI Data.vi" Type="VI" URL="../SubVIs/Save All VI Data.vi"/>
 			<Item Name="Search Item by ID.vi" Type="VI" URL="../SubVIs/Search Item by ID.vi"/>
 			<Item Name="Set Control Properties.vi" Type="VI" URL="../SubVIs/Set Control Properties.vi"/>
@@ -133,7 +128,6 @@
 			<Item Name="Set Table Colors.vi" Type="VI" URL="../SubVIs/Set Table Colors.vi"/>
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 			<Item Name="Unqualify Item Name.vi" Type="VI" URL="../SubVIs/Unqualify Item Name.vi"/>
-			<Item Name="Update Loading String.vi" Type="VI" URL="../SubVIs/Update Loading String.vi"/>
 		</Item>
 		<Item Name="User-Facing" Type="Folder">
 			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>

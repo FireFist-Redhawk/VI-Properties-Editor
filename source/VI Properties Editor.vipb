@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-09-02 21:08:50" Creator="Elmar Schneider" Comments="" ID="e0d056133b62a49953369888854d781d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-07-27 17:26:45" Modified_Date="2026-11-28 13:09:37" Creator="Elmar Schneider" Comments="" ID="106121575166613f4e5c2b5b7c10ef4e">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_VI_Properties_Editor</Package_File_Name>
-    <Library_Version>2.3.0.62</Library_Version>
+    <Library_Version>2.4.0.65</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VI Properties Editor</Library_Output_Folder>
@@ -14,6 +14,8 @@
     <Product_Name>VI Properties Editor</Product_Name>
     <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
+    <Package_LabVIEW_Save_Version>false</Package_LabVIEW_Save_Version>
+    <LabVIEW_Save_Version/>
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies/>
@@ -53,6 +55,14 @@
 - Help Tag
 - Help URL
 - Help Type
+- Inlined?
+- Allow Debugging?
+- Automatic Error Handling?
+- Run When Opened?
+- Suspend When Called?
+- Reentrancy
+- Priority
+- Preferred Execution System
 - Control names (labels)
 - Control captions
 - Control descriptions
@@ -62,12 +72,16 @@ The source code for this utility is a fork of VI Properties Editor by Merecs Eng
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/VI-Properties-Editor</URL>
-      <Release_Notes>- Added the Help &gt; Help menu item, which opens a GitHub Pages site that contains documentation for the tool. (#60)
-- Fixed an issue where LabVIEW classes and libraries would sometimes stay in memory in the NI.LV.Dialog application instance after loading and saving. (#57)
-- Fixed an issue where VI icons would get saved with incorrect template information. (#58)
-- Fixed an issue where the UI would not transition correctly after changing the Help Type. (#61)
-
-Note: due to the underlying bug in the LabVIEW Icon API that causes #58 to happen, a design decision was made to disallow editing of VI icon template information in the tool. This includes the VI icon template, the template opacity, and the template visibility.</Release_Notes>
+      <Release_Notes>- Made the following properties editable: `Inlined`, `Allow Debugging`, `Automatic Error Handling`, `Run When Opened`, `Suspend When Called`, `Reentrancy`, `Priority`, and `Preferred Execution System`. (#62)
+- Expanded on abbreviation of libraries and classes when the &lt;b&gt;Flat View&lt;/b&gt; option is turned on. (#18)
+- Added support for XControl Property VIs and XControl Method VIs, and fixed some issues involving XControl items. (#64)
+- Iterated on the &lt;b&gt;Find &amp; Replace&lt;/b&gt; window to make the new editable properties intuitively replaceable and generally improve user experience.
+- Iterated on the editing of the &lt;b&gt;VI description&lt;/b&gt; field when the &lt;b&gt;Format Bold Text&lt;/b&gt; option is turned on, to make it slightly less buggy. Note that that option should still only be used to view the formatted text and turned off when editing.
+- Added &lt;font=Consolas&gt;Ctrl+Shift+O&lt;/font&gt; menu shortcut to open a project/library/class.
+- Fixed an issue where the `Allow Debugging` property was not being read correctly from the source. (#63)
+- Fixed an issue where the `Custom Name` (Same as VI Name) property would not automatically mass update if the user performed a mass replacement of the `Window Title` property. (#65)
+- Fixed an issue where the UI would momentarily display older versions of item properties in several situations. (#66)
+- Fixed an issue where reloading a source would lead to different Item IDs in the saved item data than the new item data, resulting in several incorrect behaviors.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
